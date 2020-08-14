@@ -1,0 +1,8 @@
+F:\NEw Setg\bin\Debug\SteganoWave.exe
+F:\NEw Setg\bin\Debug\SteganoWave.pdb
+F:\NEw Setg\obj\Debug\SteganoWaveWM.csprojResolveAssemblyReference.cache
+F:\NEw Setg\obj\Debug\SteganoWave.WMfrmMain.resources
+F:\NEw Setg\obj\Debug\SteganoWave.WMRecorder.resources
+F:\NEw Setg\obj\Debug\SteganoWaveWM.csproj.GenerateResource.Cache
+F:\NEw Setg\obj\Debug\SteganoWave.exe
+F:\NEw Setg\obj\Debug\SteganoWave.pdb
